@@ -62,7 +62,7 @@ SPI Flash (U31)
 | 3         | _na_     | WP#      | Wired to 3v3
 | 4         | _na_     | GND      |
 | 5         | T8       | SI       |
-| 6         | FIXME    | SCK      |
+| 6         | N9       | SCK      |
 | 7         | _na_     | Hold#    | Wired to 3v3
 | 8         | _na_     | VCC      | Wired to 3v3
 
